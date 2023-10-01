@@ -1,4 +1,4 @@
-## **Clinic's Patient Management System in PHP**
+## **HealthWizard's Patient Management System in PHP**
 ==========================================================
 
 ### Technologies
@@ -7,12 +7,13 @@
 - Bootstrap
 - AdminLTE
 - FPDF
+- Python3
 
 ==========================================================
 ### **Developement Information**
 ==========================================================
 #### ** Original Version**
-- **Developed/Published By:** 	 Abid Elahi
+- **Developed/Published By:** 	 Sangramjit Chakraborty
 - **Uploaded/Published at:** [https://www.kashipara.com/project/php/8527/patient-management-system-updated-](https://www.kashipara.com/project/php/8527/patient-management-system-updated-) 
 ==========================================================
 #### ** Modified Version**
