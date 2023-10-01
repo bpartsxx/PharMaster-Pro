@@ -13,7 +13,7 @@
 ### **Developement Information**
 ==========================================================
 #### ** Original Version**
-- **Developed/Published By:** 	 Sangramjit Chakraborty
+- **Developed/Published By:** 	 Abid Elahi
 - **Uploaded/Published at:** [https://www.kashipara.com/project/php/8527/patient-management-system-updated-](https://www.kashipara.com/project/php/8527/patient-management-system-updated-) 
 ==========================================================
 #### ** Modified Version**
